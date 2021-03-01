@@ -1,5 +1,5 @@
 # TraCalories
-Calorie tracker web application built HTML5/CSS3, Bootstrap4, Javascript.
+Calorie tracker web application built using HTML5/CSS3, Bootstrap4, Javascript.
 
 This project is built using HTML5/CSS3, Bootstrap 4 and Vanilla Javascript Modular pattern. Data will be persisted to localStorage which means the data stored in the browser will persist even after the browser window is closed.
 
